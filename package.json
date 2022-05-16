@@ -7,6 +7,6 @@
   "author": "Muhibbudin Suretno <muhibbudinsuretno1@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cron": "^1.4.1"
+    "cron": "^2.0.0"
   }
 }
